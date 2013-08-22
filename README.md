@@ -9,7 +9,9 @@ Question, comments, pull requests welcome.
 
 ## Image sources
 
-* Commit figures from Scott Chacon's [Pro Git book](http://git-scm.com/book)
+* [Conversation image](http://www.flickr.com/photos/kareninblack/4717054335/)
+
+* [World map](http://www.flickr.com/photos/smemon/5303903135/)
 
 * [Space shuttle photo](http://www.flickr.com/photos/jurvetson/6912974136/)
 
