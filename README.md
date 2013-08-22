@@ -2,7 +2,6 @@
 # Git intro for INNGE workshop at INTECOL 2013
 
 Slides orginally created by Karthik Ram
-[![](slide_thumbnail.png)](http://karthikram.github.io/git_intro)
 
 modified by Naupaka Zimmerman
 
